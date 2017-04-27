@@ -1,5 +1,5 @@
 {
-  "name": "furious",
+  "name": "furious-php",
   "version": "1.0.0",
   "description": "A npm library of php funcitons.",
   "main": "index.js",
@@ -13,5 +13,13 @@
     "html"
   ],
   "author": "William W Brubaker",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonCreature0714/furious-php.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NonCreature0714/furious-php/issues"
+  },
+  "homepage": "https://github.com/NonCreature0714/furious-php#readme"
 }
